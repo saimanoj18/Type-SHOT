@@ -24,3 +24,6 @@ commands to run the package are
     n = 3;// this is the number of quatization levels as discussed in the paper
     grids = 16;// grids = dimension of the descriptor/bins, i.e., 352/22 = 16 ( 352 is the dimensionality of SHOT descriptor)
     bins = 22;// this should be equal to `m`, i.e., bins  = m;
+    
+    
+Please cite the paper **Low Bit-rate 3D Feature Descriptors for Depth Data from Kinect-style Sensors** if you find this code useful!    
